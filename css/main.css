@@ -926,7 +926,7 @@ body > footer .copyrights {
 
 .info-list li .title {
   display: inline-block;
-  min-width: 120px;
+  min-width: 150px;
 }
 
 .info-list li .value {
