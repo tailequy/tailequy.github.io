@@ -1,0 +1,91 @@
+{
+	"bank": {
+		"fair_column" : "marital",
+		"fair_values" : ["single", "married"],
+		"distance_columns" : ["age", "balance", "duration"],
+		"split_size" : [500, 500],
+		"random_state" : 21,
+		"distance_threshold" : 400
+	},
+	"census": {
+		"fair_column" : "gender",
+		"fair_values" : ["Male", "Female"],
+		"distance_columns" : ["age", "fnlwgt", "education_num", "capital_gain", "hours_per_week"],
+		"split_size" : [400, 200],
+		"random_state" : 42,
+		"distance_threshold" : 225000
+	},
+	"diabetes": {
+		"fair_column" : "gender",
+		"fair_values" : ["Male", "Female"],
+		"distance_columns" : ["age", "time_in_hospital"],
+		"split_size" : [540, 460],
+		"random_state" : 21,
+		"distance_threshold" : 40
+	},
+	"pisa": {
+		"fair_column" : "male",
+		"fair_values" : ["1", "0"],
+		"distance_columns" : ["grade","minutesPerWeekEnglish","studentsInEnglish","schoolSize","readingScore"],
+		"split_size" : [2687, 2546],
+		"random_state" : 21,
+		"distance_threshold" : 400
+	},
+	"pisa-encode": {
+		"fair_column" : "male",
+		"fair_values" : ["1", "0"],
+		"distance_columns" : ["grade", "preschool", "expectBachelors", "motherHS","motherBachelors", "motherWork", "fatherHS", "fatherBachelors","fatherWork", "selfBornUS", "motherBornUS", "fatherBornUS","englishAtHome", "computerForSchoolwork", "read30MinsADay","minutesPerWeekEnglish", "studentsInEnglish", "schoolHasLibrary","publicSchool", "urban", "schoolSize", "readingScore"],
+		"split_size" : [1697, 1707],
+		"random_state" : 21,
+		"distance_threshold" : 400
+	},
+	"student-por": {
+		"fair_column" : "sex",
+		"fair_values" : ["M", "F"],
+		"distance_columns" : ["age","traveltime","studytime","failures","famrel","freetime","goout","Dalc","Walc","health","absences","G1","G2","G3"],
+		"split_size" : [200, 300],
+		"random_state" : 21,
+		"distance_threshold" : 9
+	},
+	"student-mat": {
+		"fair_column" : "sex",
+		"fair_values" : ["M", "F"],
+		"distance_columns" : ["age","traveltime","studytime","failures","famrel","freetime","goout","Dalc","Walc","health","absences","G1","G2","G3"],
+		"split_size" : [187, 208],
+		"random_state" : 21,
+		"distance_threshold" : 10
+	},
+	"student-mat-encode": {
+		"fair_column" : "sex",
+		"fair_values" : ["M", "F"],
+		"distance_columns" :  ["age","Medu","Fedu","traveltime","studytime","failures","famrel","freetime","goout","Dalc","Walc","health","absences","G1","G2","G3","0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40"],
+		"split_size" : [187, 208],
+		"random_state" : 21,
+		"distance_threshold" : 10
+	},
+	"student-por-encode": {
+		"fair_column" : "sex",
+		"fair_values" : ["M", "F"],
+		"distance_columns" :  ["age","Medu","Fedu","traveltime","studytime","failures","famrel","freetime","goout","Dalc","Walc","health","absences","G1","G2","G3","0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40"],
+		"split_size" : [266, 383],
+		"random_state" : 21,
+		"distance_threshold" : 9
+	},
+	"oulad": {
+		"fair_column" : "gender",
+		"fair_values" : ["M", "F"],
+		"distance_columns" : ["num_of_prev_attempts","studied_credits","0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45"],
+		"split_size" : [2000, 2000],
+		"random_state" : 21,
+		"distance_threshold" : 10
+	},
+	"mooc": {
+		"fair_column" : "gender",
+		"fair_values" : ["m", "f"],
+		"distance_columns" : ["viewed","explored","certified","grade","nevents","ndays_act","nplay_video","nchapters","nforum_posts","incomplete_flag","age","0","1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37"],
+		"split_size" : [2000, 2000],
+		"random_state" : 21,
+		"distance_threshold" : 10
+	}
+	
+}
