@@ -1,0 +1,1 @@
+MFC grouping problem
