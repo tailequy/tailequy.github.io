@@ -1,1 +1,9 @@
+In order to cite our work please use this reference:
 
+@inproceedings{lequy2021fair, <br>
+  author = {Le Quy, Tai and Roy, Arjun and Friege, Gunnar and Ntoutsi, Eirini}, <br>
+  booktitle = {Proceedings of The 14th International Conference on Educational Data Mining (EDM21)}, <br>
+  pages = {407--414}, <br>
+  title = {Fair-capacitated clustering},   <br>
+  year = 2021 <br>
+}
