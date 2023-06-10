@@ -1,2 +1,2 @@
-Source code for paper Tai Le Quy, Gunnar Friege, and Eirini Ntoutsi. 2023. Multi-fair Capacitated Students-Topics Grouping Problem. In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Osaka, Japan, May 25–28, 2023, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 507–519. https://doi.org/10.1007/978-3-031-33374-3_40
+Source code for paper "Multi-fair Capacitated Students-Topics Grouping Problem" In Advances in Knowledge Discovery and Data Mining: 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2023, Osaka, Japan, May 25–28, 2023, Proceedings, Part I. Springer-Verlag, Berlin, Heidelberg, 507–519. https://doi.org/10.1007/978-3-031-33374-3_40
 
