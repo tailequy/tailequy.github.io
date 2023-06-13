@@ -8,18 +8,14 @@ In this paper, we introduce a multi-fair capacitated (MFC) grouping problem that
 ## Citation
 Le Quy, T., Friege, G., Ntoutsi, E. (2023). Multi-fair Capacitated Students-Topics Grouping Problem. In: Kashima, H., Ide, T., Peng, WC. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2023. Lecture Notes in Computer Science(), vol 13935. Springer, Cham. https://doi.org/10.1007/978-3-031-33374-3_40
 ## Bibtex
-@InProceedings{lequy2023multi,
-author="Le Quy, Tai
-and Friege, Gunnar
-and Ntoutsi, Eirini",
-editor="Kashima, Hisashi
-and Ide, Tsuyoshi
-and Peng, Wen-Chih",
-title="Multi-fair Capacitated Students-Topics Grouping Problem",
-booktitle="Advances in Knowledge Discovery and Data Mining",
-year="2023",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="507--519",
-isbn="978-3-031-33374-3"
+@InProceedings{lequy2023multi, <br>
+author="Le Quy, Tai and Friege, Gunnar and Ntoutsi, Eirini", <br>
+editor="Kashima, Hisashi and Ide, Tsuyoshi and Peng, Wen-Chih", <br>
+title="Multi-fair Capacitated Students-Topics Grouping Problem", <br>
+booktitle="Advances in Knowledge Discovery and Data Mining", <br>
+year="2023", <br>
+publisher="Springer Nature Switzerland", <br>
+address="Cham", <br>
+pages="507--519", <br>
+isbn="978-3-031-33374-3" <br>
 }
