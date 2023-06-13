@@ -12,5 +12,5 @@ In order to cite our work please use this reference:
   doi = {https://doi.org/10.1007/978-3-031-33374-3_40} <br>
 }
 ### Correction!
-The number of wishes <b> h=5 </b> for Student performance dataset (in the paper it is written incorrect, <b>h = 3 </b>).
+The number of wishes <b> h=5 </b> for Student performance dataset (in the paper it is written incorrectly, <b>h = 3 </b>).
 The results when the number of wishes h = 3 are shown in two Notebook: <b> Student-mat-h3.ipynb </b> and <b>Student-por-h3.ipynb </b>
