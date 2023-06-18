@@ -10,14 +10,14 @@ The number of wishes <b> h=5 </b> for Student performance dataset (in the paper 
 The results of our proposed models when the number of wishes <b>h = 3</b> are shown in two Notebook: <b> Student-mat-h3.ipynb </b> and <b>Student-por-h3.ipynb </b>
 
 ## Citation
-Le Quy, T., Friege, G., Ntoutsi, E. (2023). Multi-fair Capacitated Students-Topics Grouping Problem. In: Kashima, H., Ide, T., Peng, WC. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2023. Lecture Notes in Computer Science(), vol 13935. Springer, Cham. https://doi.org/10.1007/978-3-031-33374-3_40
+Le Quy, T., Friege, G., Ntoutsi, E. (2023). Multi-fair Capacitated Students-Topics Grouping Problem. In: Proceedings of the Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2023). Lecture Notes in Computer Science, vol 13935. Springer, Cham. https://doi.org/10.1007/978-3-031-33374-3_40
 
 ## Bibtex
 @InProceedings{lequy2023multi, <br>
 author="Le Quy, Tai and Friege, Gunnar and Ntoutsi, Eirini", <br>
 editor="Kashima, Hisashi and Ide, Tsuyoshi and Peng, Wen-Chih", <br>
 title="Multi-fair Capacitated Students-Topics Grouping Problem", <br>
-booktitle="Advances in Knowledge Discovery and Data Mining", <br>
+booktitle="Proceedings of the Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2023)", <br>
 year="2023", <br>
 publisher="Springer Nature Switzerland", <br>
 address="Cham", <br>
